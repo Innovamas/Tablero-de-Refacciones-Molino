@@ -4,7 +4,7 @@
 ##  Objetivo
 Gestiónar de manera diaria el consumo de refacciones, identificando tendencias, consumos, dias de seguridad etc.
 ---
-## 뭅뭃뭄뭆 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **Power BI Desktop** (*[modo de conexión: DirectQuery]*)
 - **[Fuente de datos, ej. SQL Server]**
 - **DAX** (*[tipo de cálculos: consumo promeido, dias de seguridad, dias desde consumo]*)
